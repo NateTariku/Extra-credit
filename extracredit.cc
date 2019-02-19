@@ -10,7 +10,7 @@
 #include <cstdlib>
 using namespace std;
 
-int min_value(int x, int y);                                                        //function prototype
+int min_value(int x, int y);                                                        //function  prototype 
 
 int main(int argc, char const *argv[]) {
 
